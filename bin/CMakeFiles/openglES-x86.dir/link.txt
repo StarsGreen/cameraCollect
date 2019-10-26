@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/openglES-x86.dir/src/camera.cpp.o CMakeFiles/openglES-x86.dir/src/draw.cpp.o CMakeFiles/openglES-x86.dir/src/main.cpp.o CMakeFiles/openglES-x86.dir/src/window.cpp.o  -o openglES-x86 -lEGL -lGLESv2 -lGLESv1_CM -lX11 -lopencv_highgui -lopencv_core -lopencv_imgcodecs -lopencv_imgproc 
